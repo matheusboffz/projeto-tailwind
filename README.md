@@ -23,13 +23,13 @@ Landing page demonstrativa para uma concessionária fictícia de carros novos e 
 Não é necessário instalar dependências nem executar um processo de build.
 
 1. Clone ou baixe este repositório.
-2. Abra `tailwind.html` diretamente no navegador. Se preferir, use uma extensão como Live Server no VS Code.
+2. Abra `index.html` diretamente no navegador. Se preferir, use uma extensão como Live Server no VS Code.
 
 O Tailwind CSS e as fontes são carregados de serviços externos, então é necessária uma conexão com a internet para que todos os estilos e fontes apareçam corretamente.
 
 ## Arquivos
 
-- `tailwind.html`: página demonstrativa estilizada com Tailwind CSS.
+- `index.html`: página demonstrativa estilizada com Tailwind CSS.
 - `style.css`: folha de estilos alternativa em CSS puro, com classes organizadas pela metodologia BEM.
 
 O HTML atual usa Tailwind CSS pelo CDN e não importa `style.css`; os dois arquivos representam abordagens de estilo distintas para o projeto.
